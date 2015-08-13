@@ -1,0 +1,63 @@
+.nav-bar{
+	padding: 3rem 6rem;
+    background-color: #294035;
+    position: fixed;
+    width: 100%;
+    border-bottom: 2px solid #DDD;
+    z-index: 9999;
+    margin-right: 10rem;
+}
+
+.nav-bar > .content{
+	width: 900px;
+    height: 15rem;
+}
+
+.content{
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0 0.938rem;
+	border: 10px;
+}
+
+.content .ssdesigns{
+	margin-left: 17rem;
+	margin-right: 15rem;
+	margin-top: -9.0rem;
+}
+
+.content .links{
+	margin-left: 15rem;
+	margin-right: 25rem;
+	margin-top: -4rem;
+    font-size: 1.2rem;
+    width: 60%;
+    padding: 1rem 2rem;    
+}
+
+.links a{
+	text-decoration: none;
+	color: ghostwhite;
+	letter-spacing: .1em;
+}
+
+ul{
+	list-style: none;
+}
+
+.links li{
+	display: inline-block;
+	margin-left: 2rem;
+	font-family: 'Poiret One', cursive;
+}
+
+/*ABOUT ME PROFILE SECTION*/
+
+.about-me{
+	background-color: #7ABF9E;
+}
+.about-me .pro-pic{
+	height: 20rem;
+    overflow: hidden;
+    margin-top: 17rem;
+}
